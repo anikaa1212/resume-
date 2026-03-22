@@ -12,7 +12,7 @@ body {
 }
 
 
-/* NAVBAR */
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -40,7 +40,7 @@ body {
     position: relative;
 }
 
-/* underline animation */
+
 .navbar a::after {
     content: "";
     position: absolute;
@@ -57,7 +57,7 @@ body {
 }
 
 
-/* HERO */
+
 .hero {
     text-align: center;
     padding: 80px 20px;
@@ -84,7 +84,7 @@ body {
 }
 
 
-/* SECTIONS */
+
 .section {
     padding: 60px 10%;
 }
@@ -97,7 +97,7 @@ body {
 }
 
 
-/* CARDS */
+
 .card {
     background: white;
     padding: 22px;
@@ -114,7 +114,7 @@ body {
 }
 
 
-/* LIST */
+
 .list {
     padding-left: 20px;
 }
@@ -124,13 +124,13 @@ body {
 }
 
 
-/* CONTACT */
+
 #contact p {
     margin-bottom: 8px;
 }
 
 
-/* FOOTER */
+
 footer {
     text-align: center;
     padding: 20px;
